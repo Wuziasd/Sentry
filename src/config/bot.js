@@ -23,9 +23,9 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Moderasyonla Uğraşıyor..", // required by Discord API, not shown in the client
-        state: "Umuta YKS Çalıştırıyor",     // this is what people actually see
-        type: 4,               // Custom
+        name: "Umuta YKS Çalıştırıyor..", // required by Discord API, not shown in the client
+        state: "Moderasyonla Uğraşıyor...",     // this is what people actually see
+        type: 0,               // Custom
       },
     ],
   },
