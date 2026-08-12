@@ -23,9 +23,9 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: ".gg/rtat 600?", // required by Discord API, not shown in the client
-        state: ".gg/rtat 600?",     // this is what people actually see
-        type: 5, // Custom
+        name: "Ne Mutlu Türküm Diyene!", // required by Discord API, not shown in the client
+        state: "İyiki Varsın Eren!",     // this is what people actually see
+        type: 4, // Custom
       },
     ],
   },
