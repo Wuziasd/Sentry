@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Ne Mutlu Türküm Diyene!", // required by Discord API, not shown in the client
-        state: "İyiki Varsın Eren!",     // this is what people actually see
+        state: "İstikbal Göklerdedir!",     // this is what people actually see
         type: 4, // Custom
       },
     ],
